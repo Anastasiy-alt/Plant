@@ -1,4 +1,7 @@
 .page {
     font-family: 'Montserrat';
     font-style: normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }

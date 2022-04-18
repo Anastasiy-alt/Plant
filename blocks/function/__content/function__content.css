@@ -3,7 +3,7 @@
     padding: 0;
     grid-area: content;
     font-weight: 400;
-    font-size: calc(100vw * 0.0078125);
-    line-height: calc(100vw * 0.0125);
+    font-size: 10px;
+    line-height: 16px;
     color: #2C1500;
 }

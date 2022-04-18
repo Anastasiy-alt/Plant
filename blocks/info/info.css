@@ -1,0 +1,11 @@
+.info {
+    display: grid;
+    grid-template-columns: max(568px) max(513px);
+    grid-template-rows: max(268px) max(250px);
+    grid-template-areas: 
+        "text img-right"
+        "img-bottom img-right";
+    gap: 84px 74px;
+    margin-left: 56px;
+    margin-right: 56px;
+}
