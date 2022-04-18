@@ -18,11 +18,11 @@
 @import url(../blocks/main/__title/main__title.css);
 @import url(../blocks/main/__img/main__img.css);
 @import url(../blocks/main/__content/main__content.css);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
-@import url(../blocks);
+@import url(../blocks/function/__content/function__content.css);
+@import url(../blocks/function/__icon/function__icon.css);
+@import url(../blocks/function/__item/function__item.css);
+@import url(../blocks/function/__title/function__title.css);
+@import url(../blocks/function/function.css);
 @import url(../blocks);
 @import url(../blocks);
 @import url(../blocks);

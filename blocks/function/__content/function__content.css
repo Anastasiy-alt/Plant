@@ -1,0 +1,9 @@
+.function__content {
+    margin: 0;
+    padding: 0;
+    grid-area: content;
+    font-weight: 400;
+    font-size: calc(100vw * 0.0078125);
+    line-height: calc(100vw * 0.0125);
+    color: #2C1500;
+}
