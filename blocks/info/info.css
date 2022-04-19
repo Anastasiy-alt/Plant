@@ -1,11 +1,13 @@
 .info {
     display: grid;
-    grid-template-columns: max(568px) max(513px);
-    grid-template-rows: max(268px) max(250px);
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
     grid-template-areas: 
         "text img-right"
         "img-bottom img-right";
-    gap: 84px 74px;
+    gap: calc(100vw * 0.065625) calc(100vw * 0.0578125);
     margin-left: 56px;
     margin-right: 56px;
+    justify-items: start;
+    align-items: end;
 }

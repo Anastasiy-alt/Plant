@@ -7,7 +7,7 @@
     cursor: pointer;
     transition: opacity .4s;
 }
-.nav__sign:hover {
+/* .nav__sign:hover {
     opacity: .4;
     outline-offset: -1px;
     outline: 1px solid #156963;
@@ -19,4 +19,4 @@
 
 .nav__sign:active {
     opacity: .4;
-}
+} */
